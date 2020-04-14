@@ -1,0 +1,12 @@
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/bin/Debug/netcoreapp3.1/actividad_ciudades.deps.json
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/bin/Debug/netcoreapp3.1/actividad_ciudades.runtimeconfig.json
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/bin/Debug/netcoreapp3.1/actividad_ciudades.runtimeconfig.dev.json
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/bin/Debug/netcoreapp3.1/actividad_ciudades.dll
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/bin/Debug/netcoreapp3.1/actividad_ciudades.pdb
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/obj/Debug/netcoreapp3.1/actividad_ciudades.csprojAssemblyReference.cache
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/obj/Debug/netcoreapp3.1/actividad_ciudades.AssemblyInfoInputs.cache
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/obj/Debug/netcoreapp3.1/actividad_ciudades.AssemblyInfo.cs
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/obj/Debug/netcoreapp3.1/actividad_ciudades.dll
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/obj/Debug/netcoreapp3.1/actividad_ciudades.pdb
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/obj/Debug/netcoreapp3.1/actividad_ciudades.csproj.CoreCompileInputs.cache
+/Users/jeffeotto/Projects/actividad_ciudades/actividad_ciudades/obj/Debug/netcoreapp3.1/actividad_ciudades.genruntimeconfig.cache
